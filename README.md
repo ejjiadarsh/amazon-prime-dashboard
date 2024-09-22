@@ -1,4 +1,6 @@
 # amazon-prime-dashboard
+![image](https://github.com/user-attachments/assets/e131dcff-e1fc-48ed-ac6a-f90677bb69f4)
+
 Amazon Prime Dashboard
 This project is an interactive data visualization dashboard showcasing insights into movies and TV shows available on Amazon Prime Video. The dashboard was built using Tableau and presents a detailed overview of content distribution by genre, country, and ratings, along with other relevant metadata like the release year, duration, director, and cast for specific titles.
 
